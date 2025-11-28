@@ -1,7 +1,7 @@
 # Codex Chat — Feedback & Feature Requests
 
 Welcome to the **Codex Chat** feedback repository!  
-This space is dedicated to collecting **bug reports, feature requests, suggestions, and general feedback** for the Codex Chat plugin for JetBrains IDEs.
+This space is dedicated to collecting **issues, feature requests, suggestions, and general feedback** for the Codex Chat plugin for JetBrains IDEs.
 
 Your input helps shape the future of the plugin — thank you for taking the time to contribute!
 
@@ -24,7 +24,7 @@ All feedback is welcome.
 
 ## 🐞 Reporting Issues
 
-When creating an issue report, please provide:
+When creating an [issue](https://github.com/SerSarParAms/codex-chat-feedback/issues/new), please provide:
 
 1. **Plugin version**
 2. **IDE version** (PhpStorm, WebStorm, IntelliJ, etc.)
@@ -42,7 +42,7 @@ The more detail you include, the quicker we can investigate and fix the issue.
 
 Got an idea? Great!
 
-When creating a feature request, please describe:
+When creating a [feature request](https://github.com/SerSarParAms/codex-chat-feedback/issues/new), please describe:
 
 - The problem or workflow you're trying to improve  
 - The feature you'd like to see  
@@ -55,12 +55,20 @@ Even small quality-of-life suggestions are appreciated.
 
 ## 📦 About Codex Chat
 
-**Codex Chat** is a JetBrains plugin that brings AI-assisted chat directly into your IDE.  
-It enables:
+**Codex Chat** is a JetBrains plugin that brings AI-assisted chat directly into your IDE.
 
-- Editing prompts directly in the native chat window  
-- Jumping to any part of the message with the mouse  
-- A smooth workflow without using the terminal for chat sessions
+## Features
+
+- **Conversation Management**: Create and manage Codex conversations within the IDE
+- **Real-time Event Streaming**: View agent reasoning, tool calls, command execution, and file patches as they happen
+- **Interactive Approvals**: Approve or deny command executions and file changes through dialogs
+- **Timeline View**: Track all tool calls, searches, plan updates, and errors in a dedicated panel
+- **Project-Aware**: Automatically uses project directory as conversation context
+
+## Requirements
+
+- IntelliJ IDEA or any other modern JetBrains IDE
+- Codex CLI installed and available in PATH (`codex` command)
 
 The plugin is young and evolving quickly — your feedback is essential in shaping its future.
 
