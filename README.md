@@ -5,6 +5,8 @@ This space is dedicated to collecting **issues, feature requests, suggestions, a
 
 Your input helps shape the future of the plugin — thank you for taking the time to contribute!
 
+👉 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=75UN6H3BQXBQ4) 🫶
+
 ---
 
 ## 💬 Purpose of This Repository
@@ -51,6 +53,8 @@ When creating a [feature request](https://github.com/SerSarParAms/codex-chat-fee
 
 Even small quality-of-life suggestions are appreciated.
 
+Consider [donating](https://www.paypal.com/donate/?hosted_button_id=75UN6H3BQXBQ4) to support us and to raise priority of your request ;)
+
 ---
 
 ## 📦 About Codex Chat
@@ -78,3 +82,13 @@ The plugin is young and evolving quickly — your feedback is essential in shapi
 
 Thank you for helping improve Codex Chat!  
 Every issue, idea, or suggestion contributes to a better experience for everyone.
+
+---
+
+## ❤️ Support the Project
+
+If Codex Chat saves you time or improves your workflow, consider supporting its development:
+
+👉 [**Donate via PayPal**](https://www.paypal.com/donate/?hosted_button_id=75UN6H3BQXBQ4)
+
+Your support helps keep the project improving. Thank you!
